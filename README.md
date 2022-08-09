@@ -1,14 +1,1 @@
-- 👋 Hi, I’m @JoshuatheProgrammer
-- 
--     |
--     |
--     v
--     
-- 🌱 I’m currently learning ...  JavaScript, CSS, HTML, Python
-- 
--     |
--     |
--     v
--     
-- 📫 How to reach me ... Twitter ---> @JoshProgrammer
 
